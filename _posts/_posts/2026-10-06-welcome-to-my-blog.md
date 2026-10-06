@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome-to-my-blog"
 date: 2026-10-06
 ---
 Welcome to my blog!
